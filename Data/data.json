@@ -1,34 +1,74 @@
 [
     {
         "id": "0",
-        "name": "All News"
+        "chef_photo": "https://thumbs.dreamstime.com/b/male-chef-portrait-against-grey-background-35515326.jpg",
+        "chef_name": "Md Mehedi Hasan",
+        "year_of_exprience": "2",
+        "number_of_recipes": "3",
+        "Like": "50",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam numquam quod excepturi eveniet ea asperiores cupiditate distinctio veniam quia sapiente."
     },
     {
         "id": "1",
-        "name": "Breaking News"
+        "chef_photo": "https://thumbs.dreamstime.com/b/male-chef-portrait-against-grey-background-35515326.jpg",
+        "chef_name": "Md Mehedi Hasan",
+        "year_of_exprience": "2",
+        "number_of_recipes": "4",
+        "Like": "20",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam numquam quod excepturi eveniet ea asperiores cupiditate distinctio veniam quia sapiente."
     },
     {
         "id": "2",
-        "name": "Regular News"
+        "chef_photo": "https://media.istockphoto.com/id/536173775/photo/portrait-of-a-chef.jpg?s=170667a&w=0&k=20&c=8_4zyAH9enBt5fMPdWH1XKCUOfyYFphiRtvwR6hCx0I=",
+        "chef_name": "Baizid Bali",
+        "year_of_exprience": "5",
+        "number_of_recipes": "3",
+        "Like": "18",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam numquam quod excepturi eveniet ea asperiores cupiditate distinctio veniam quia sapiente."
     },
     {
         "id": "3",
-        "name": "International News"
+        "chef_photo": "https://media.istockphoto.com/id/1071183342/photo/master-chef.jpg?s=612x612&w=0&k=20&c=XxdWXKik2u1tEjgvHDquI7qX0QP5GZSSsNesw9WsJ6Y=",
+        "chef_name": "Rifat Khan",
+        "year_of_exprience": "3",
+        "number_of_recipes": "3",
+        "Like": "15",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam numquam quod excepturi eveniet ea asperiores cupiditate distinctio veniam quia sapiente."
     },
     {
         "id": "4",
-        "name": "Sports"
+        "chef_photo": "https://thumbs.dreamstime.com/b/male-chef-portrait-against-grey-background-35515326.jpg",
+        "chef_name": "Jahirul Islam",
+        "year_of_exprience": "2",
+        "number_of_recipes": "3",
+        "Like": "12",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam numquam quod excepturi eveniet ea asperiores cupiditate distinctio veniam quia sapiente."
     },
     {
         "id": "5",
-        "name": "Entertainment"
+        "chef_photo": "https://media.istockphoto.com/id/157589277/photo/portrait-of-happy-smiling-cook-in-chefs-hat-and-uniform.jpg?s=612x612&w=0&k=20&c=WJ-xEqqnRgUqtQ6ivTygd1DfPMn1oT41s0Czps5qHSU=",
+        "chef_name": "Mamun Khan",
+        "year_of_exprience": "4",
+        "number_of_recipes": "3",
+        "Like": "20",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam numquam quod excepturi eveniet ea asperiores cupiditate distinctio veniam quia sapiente."
     },
     {
         "id": "6",
-        "name": "Culture"
+        "chef_photo": "https://thumbs.dreamstime.com/b/male-chef-portrait-against-grey-background-35515326.jpg",
+        "chef_name": "Musfiqur Rahman",
+        "year_of_exprience": "1",
+        "number_of_recipes": "3",
+        "Like": "10",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam numquam quod excepturi eveniet ea asperiores cupiditate distinctio veniam quia sapiente."
     },
     {
         "id": "7",
-        "name": "Arts"
+        "chef_photo": "https://thumbs.dreamstime.com/b/male-chef-portrait-against-grey-background-35515326.jpg",
+        "chef_name": "Md Limon Hasan",
+        "year_of_exprience": "6",
+        "number_of_recipes": "3",
+        "Like": "20",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam numquam quod excepturi eveniet ea asperiores cupiditate distinctio veniam quia sapiente."
     }
 ]
